@@ -1,7 +1,7 @@
 import { Route, Routes } from "react-router-dom";
 import Home from "./route/home/home.component";
 import Navigation from "./route/navigation/navigation.component";
-import SignIn from "./route/sign-in/sign-in.component";
+import SignIn from "./route/sign-in/sign-in-route.component";
 
 const App = () => {
   return (
